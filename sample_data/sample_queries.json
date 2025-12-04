@@ -1,0 +1,36 @@
+{
+  "queries": [
+    {
+      "question": "What are the three main types of machine learning?",
+      "expected_topics": ["supervised learning", "unsupervised learning", "reinforcement learning"]
+    },
+    {
+      "question": "What is supervised learning and what are some applications?",
+      "expected_topics": ["labeled training data", "image classification", "spam detection"]
+    },
+    {
+      "question": "How is machine learning used in healthcare?",
+      "expected_topics": ["disease diagnosis", "drug discovery", "personalized treatment"]
+    },
+    {
+      "question": "What are neural networks?",
+      "expected_topics": ["biological neural networks", "interconnected nodes", "deep learning"]
+    },
+    {
+      "question": "What challenges does machine learning face?",
+      "expected_topics": ["data quality", "interpretability", "bias", "privacy"]
+    },
+    {
+      "question": "Explain reinforcement learning.",
+      "expected_topics": ["agent", "environment", "rewards", "maximize cumulative reward"]
+    },
+    {
+      "question": "What is feature engineering?",
+      "expected_topics": ["selecting", "transforming", "raw data", "features"]
+    },
+    {
+      "question": "How is machine learning used in finance?",
+      "expected_topics": ["fraud detection", "algorithmic trading", "credit scoring"]
+    }
+  ]
+}

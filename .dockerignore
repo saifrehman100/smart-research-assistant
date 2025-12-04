@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Git
+.git/
+.gitignore
+
+# Environment
+.env
+.env.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+tests/
+
+# Documentation
+*.md
+docs/
+
+# Sample data (don't include in production image)
+sample_data/
+
+# Scripts
+scripts/
+
+# Logs
+logs/
+*.log
+
+# Temp files
+uploads/
+temp_files/
+chroma_data/
+
+# OS
+.DS_Store
